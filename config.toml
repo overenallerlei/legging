@@ -1,0 +1,19 @@
+baseURL = "https://leggingisgeenbroek.nl/"
+languageCode = "en"
+defaultContentLanguage = "en"
+title = "Een legging is geen broek"
+theme = "hallo-hugo"
+disableKinds = ["page", "section", "taxonomy", "taxonomyTerm"]
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+[Author]
+    name = "Legging"
+
+[params]
+
+    [[params.links]]
+        iconset = "fas"
+        icon = "envelope"
+        title = "E-mail"
+        url = "mailto:mail@example.org"
+
+      
