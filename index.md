@@ -1,9 +1,13 @@
 Legging is geen broek
 ================
 
+Echt, is het niet. Dus draag ze dan ook niet zo.
+
 
 ======= GEFELICITEERD MET JE VERJAARDAG ASTRIAAAAAAA! =======
-Echt, is het niet. Dus draag ze dan ook niet zo.
+
+
+
 
 ![legging fout 1](images/2093.jpg)
 
