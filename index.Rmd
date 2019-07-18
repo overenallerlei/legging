@@ -1,3 +1,18 @@
 ---
-site: blogdown:::blogdown_site
+title: "Legging is geen broek"
+output: github_document
 ---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+
+Echt, is het niet. Dus draag ze dan ook niet zo.
+
+![legging foto 1](images/ayo-ogunseinde-0xWXyaa8bTQ-unsplash.jpg)
+
+
+![legging foto 2](images/emily-rudolph--m0xspcr6Xw-unsplash.jpg)
+
